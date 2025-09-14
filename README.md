@@ -1,2 +1,26 @@
-# Ordinary-Differential-Equations
-About comprehensive notes, solved examples, and key theorems from Ordinary Differential Equations.
+# MAT104 – Ordinary Differential Equations
+
+## Course Objectives
+- Develop a deep understanding of first- and higher-order ODEs.
+- Solve problems using analytical and series methods.
+- Apply ODE techniques to real-world models.
+
+## Topics Covered
+- First-Order ODEs: Existence and Uniqueness, Separable and Exact Equations
+- Higher-Order Linear ODEs with Constant Coefficients
+- Series Solutions: Frobenius Method, Bessel’s Equation, Legendre Polynomials
+- Sturm-Liouville Problems
+- Boundary Value Problems and Eigenfunction Expansions
+- Applications in Physics and Engineering
+
+## Suggested Reading
+- Boyce, W. E., & DiPrima, R. C. (2012). *Elementary Differential Equations and Boundary Value Problems*.
+- Simmons, G. F. (2016). *Differential Equations with Applications and Historical Notes*.
+- Coddington, E. A. (1995). *An Introduction to Ordinary Differential Equations*.
+
+## Online Resources
+- NPTEL: [ODE by Prof. M. Ram Murty, IIT Madras](https://nptel.ac.in/courses/111106100)
+
+---
+
+🔗 For more details, visit my [GitHub Profile](https://github.com/LakshitSinghBishtTM).
