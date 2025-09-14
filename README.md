@@ -22,7 +22,6 @@
 - NPTEL: [ODE by Prof. M. Ram Murty, IIT Madras](https://nptel.ac.in/courses/111106100)
 
 ## Index
-
 1. [Chapter 1](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter1.pdf)
 2. [Chapter 2] 
 3. [Chapter 3]  
