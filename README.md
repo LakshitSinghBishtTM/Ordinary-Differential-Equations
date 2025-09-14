@@ -21,8 +21,6 @@
 ## Online Resources
 - NPTEL: [ODE by Prof. M. Ram Murty, IIT Madras](https://nptel.ac.in/courses/111106100)
 
----
-
 ## 📑 Index
 
 1. [Chapter 1](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter1.pdf)
@@ -30,12 +28,8 @@
 3. [Chapter 3]  
 4. [Chapter 4]
 5. [Chapter 5]
----
 
 ✨ Notes are handwritten (scanned PDFs). I’ll keep updating as the semester progresses.
-
-
----
 
 🔗 For more details, visit my [GitHub Profile](https://github.com/LakshitSinghBishtTM).
 
