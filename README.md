@@ -24,3 +24,23 @@
 ---
 
 🔗 For more details, visit my [GitHub Profile](https://github.com/LakshitSinghBishtTM).
+
+
+
+# Ordinary Differential Equations Notes 📘
+
+This repository contains my handwritten notes for the **M.Sc. Mathematics** course on *Ordinary Differential Equations*.  
+The notes are organized chapter-wise.
+
+---
+
+## 📑 Index
+
+1. [Chapter 1](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter1.pdf)
+2. [Chapter 2] 
+3. [Chapter 3]  
+4. [Chapter 4]
+5. [Chapter 5]
+---
+
+✨ Notes are handwritten (scanned PDFs). I’ll keep updating as the semester progresses.
