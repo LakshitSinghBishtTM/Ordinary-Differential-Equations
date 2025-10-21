@@ -23,7 +23,7 @@
 
 ## Index
 1. [Chapter 1](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter1.pdf)
-2. [Chapter 2](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter2.pdf
+2. [Chapter 2](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter2.pdf)
 3. [Chapter 3]  
 4. [Chapter 4]
 5. [Chapter 5]
