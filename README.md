@@ -25,7 +25,7 @@
 1. [Chapter 1](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter1.pdf)
 2. [Chapter 2](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter2.pdf)
 3. [Chapter 3](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter3.pdf)
-4. [Chapter 4]
+4. [Chapter 4](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter4.pdf)
 5. [Chapter 5](https://github.com/LakshitSinghBishtTM/Ordinary-Differential-Equations/blob/main/Chapter5.pdf)
 
 ✨ Notes are handwritten (scanned PDFs). I’ll keep updating as the semester progresses.
